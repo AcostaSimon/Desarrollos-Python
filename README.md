@@ -4,7 +4,7 @@
 
 - Algunos códigos y ejemplos realizados en Python.
 
-<---------------------------------->
+<------------------------------------------------------------------->
 - Calculadora Basica(v1): Python utilizando tkinter para su interface.
 
 - Ejemplos de Recursion: Muestra del funcionamiento recursivo en python.
